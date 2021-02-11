@@ -1,0 +1,30 @@
+.home {
+  width: 100%;
+  max-width: 741px;
+  padding: 24px 16px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 16px;
+}
+
+.buttonsContainer {
+  display: grid;
+  grid-auto-flow: column;
+  width: max-content;
+  column-gap: 16px;
+}
+
+@media screen and (max-width: 480px) {
+  .form {
+    grid-template-columns: 1fr;
+    row-gap: 24px;
+  }
+}

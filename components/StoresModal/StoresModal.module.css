@@ -1,0 +1,12 @@
+.store {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.store a {
+  text-decoration-line: underline;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.5);
+}
