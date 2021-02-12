@@ -6,7 +6,9 @@ Product finder is an app that fetches and renders product data offered by the [B
 
 - [Demo](https://noon-task.vercel.app/)
 
+<p align="center">
 <img alt="demo" src="https://res.cloudinary.com/dorcersy5/image/upload/c_scale,q_100,h_400/v1613161233/demo_nedfin.gif" />
+</p>
 
 ## Running the project
 
