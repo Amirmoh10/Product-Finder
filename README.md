@@ -4,10 +4,10 @@
 
 Product finder is an app that fetches and renders product data offered by the [Barcode Lookup API](https://www.barcodelookup.com/api) service. It allows users to search for product information to render this information as a card. The user can either search for a product using a keywords search or take advantage of the advanced search modal that offers additional filters.
 
-- [Demo](https://noon-task.vercel.app/)
+👉🏻 [Live demo link](https://noon-task.vercel.app/)
 
 <p align="center">
-<img alt="demo" src="https://res.cloudinary.com/dorcersy5/image/upload/c_scale,q_100,h_400/v1613161233/demo_nedfin.gif" />
+    <img alt="Demo" src="https://res.cloudinary.com/dorcersy5/image/upload/c_scale,q_100,h_400/v1613161233/demo_nedfin.gif">
 </p>
 
 ## Running the project
