@@ -43,8 +43,8 @@ The only libraries used (besides Next.js, React, ReactDOM) are:
 
 ### Why CSS modules?
 
-1- The task description didn't restrict which technology to use for styling.
-2- It's a very simple approach that is already supported by Next.js and at the same time avoids classnames clashes.
+1. The task description didn't restrict which technology to use for styling.
+2. It's a very simple approach that is already supported by Next.js and at the same time avoids classnames clashes.
 
 ### Why the `Stack` component?
 
@@ -56,9 +56,9 @@ Most of the application is composed out of stacks, so creating and using this co
 ### Manual testing
 
 The following techniques allowed me to test different behaviours in the APP without relying on the API:
-1- **Mock data:** to avoid quickly reaching the API limit (50 requests), I created a `mockData` module with a mock response.
-2- **Throttling the connection in Chrome devtools:** this made it possible to test the loading behaviour by throttling a slow connection from the "Network" tab.
-3- **Blocking the products request in Chrome devtools:** this made it possible to test the failed request behaviour.
+1. **Mock data:** to avoid quickly reaching the API limit (50 requests), I created a `mockData` module with a mock response.
+2. **Throttling the connection in Chrome devtools:** this made it possible to test the loading behaviour by throttling a slow connection from the "Network" tab.
+3. **Blocking the products request in Chrome devtools:** this made it possible to test the failed request behaviour.
 
 ## Design decisions
 
@@ -66,8 +66,8 @@ I did my best to go for a minimalistic design which scales well on mobile (the p
 
 ### Why not show all filters along with the search string?
 
-1- To avoid taking too much space by default, especially on mobile.
-2- My assumption is that most users use mostly the search input.
+1. To avoid taking too much space by default, especially on mobile.
+2. My assumption is that most users use mostly the search input.
 
 ### Why show products in cards?
 
