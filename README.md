@@ -1,4 +1,3 @@
-# Noon - Coding Challenge | Amir Ghezala
 
 > **Note:** if the products fetch doesn't work by the time you use the demo, it would most likely be because of the API limit. If that happens, just let me know and I'll try to create a new API key with another email.
 
